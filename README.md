@@ -6,6 +6,9 @@ This application is a planner for an average employee who works a regular 9-to-5
 
 ## Preview of Application
 
-
+![image](https://user-images.githubusercontent.com/128929611/236347208-cf25542c-0aca-4bc6-8fff-40b4dbb2e0bb.png)
+![image](https://user-images.githubusercontent.com/128929611/236347219-09c221e0-6cd6-4467-b13d-1eaeba703873.png)
 
 ## Link to Deployed Applicaiton
+
+https://rayr482.github.io/work-day-scheduler/
